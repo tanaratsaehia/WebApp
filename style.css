@@ -1,0 +1,10 @@
+.navbar{
+    background-color: rgb(93, 33, 149);
+}
+a.navbar-brand{
+    color:aliceblue;
+    
+}
+a.navbar-brand:hover{
+    color: brown;
+}
